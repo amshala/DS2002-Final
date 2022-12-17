@@ -1,0 +1,129 @@
+{
+  "intents": [
+    {
+      "tag": "firstq",
+      "patterns": [
+        "top movies for each year?",
+        "top movies by year?",
+        "top movie each year?",
+        "highest rated movie each year?",
+        "highest rated movie by year?",
+        "movies with the highest score every year",
+        "movies with the highest score each year",
+        "highest scored movies for each year"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "secondq",
+      "patterns": [
+        "top tv shows for each year?",
+        "top tv shows by year?",
+        "top shows by year?",
+        "highest rated shows by year?",
+        "highest rated tv shows by year?",
+        "highest rated tv shows each year",
+        "shows with the highest score each year?",
+        "which tv shows have the highest scores each year?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "thirdq",
+      "patterns": [
+        "top movies per decade?",
+        "highest rated movies by decade?",
+        "what movies are the highest rated each decade?",
+        "which movies were the highest rated each decade"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "fourthq",
+      "patterns": [
+        "top movie by genre?",
+        "which movie is the highest rated for the drama genre",
+        "which movie is the highest rated for the comedy genre",
+        "which movie is the highest rated for the scifi genre",
+        "which movie is the highest rated for the action genre",
+        "which movie is the highest rated for the crime genre",
+        "top movies for each genre"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "fifthq",
+      "patterns": [
+        "oldest movie from france?",
+        " oldest movie produced in france?",
+        " oldest movie from fr?",
+        "oldest tv show from france",
+        "oldest tv show produced in france?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "sixthq",
+      "patterns": [
+        "longest movie and tv show with the most seasons?",
+        "movie with the longest duration?",
+        "what tv show has the most seasons?",
+        "tv show with the most seasons?",
+        "what movie is the longest?",
+        "what movie has the longest run time?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "seventhq",
+      "patterns": [
+        "top movie by number of votes?",
+        "movie with the most votes?",
+        "what is the top movie by votes?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "eighthq",
+      "patterns": [
+        "what is the longest duration for a tv episode?",
+        "what is the tv show with the longest episode",
+        "which tv show has the longest episode"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "ninethq",
+      "patterns": [
+        "what\u2019s the worst romance movie?",
+        "whats the lowest rated romance movie",
+        "what romance movie has the lowest rating"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "tenthq",
+      "patterns": [
+        "top tv show by genre?",
+        "highest rated show by genre",
+        "highest rated show for each genre",
+        "shows with the largest score by genre",
+        "tv shows with the highest rating for each genre"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "help",
+      "patterns": [
+        "Help",
+        "help",
+        "info",
+        "questions"
+      ],
+      "responses": [
+        "1. Top movies for each year? , 2. top tv shows for each year? , 3. top movies per decade? , 4. top movie by genre? , 5. oldest movie from france? , 6. longest movie and tv show with the most seasons? , 7. top movie by number of votes? , 8. what is the longest duration for a tv episode? , 9. what's the worst romance movie? , 10. top tv show by genre?"
+      ],
+      "context_set": ""
+    }
+  ]
+}
